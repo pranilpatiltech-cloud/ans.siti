@@ -771,3 +771,18 @@ section {
         grid-template-columns: 1fr;
     }
 }
+
+/* Projects menu: project page and product gallery */
+.nav-links .projects-nav-item { position: relative; }
+.projects-menu > summary { list-style: none; cursor: pointer; font-size: .95rem; font-weight: 500; color: var(--grey-dark); white-space: nowrap; }
+.projects-menu > summary::-webkit-details-marker { display: none; }
+.projects-menu > summary:hover, .projects-menu > summary.active, .projects-menu[open] > summary { color: var(--primary-blue); }
+.projects-menu > summary:focus-visible { outline: 2px solid var(--primary-blue); outline-offset: 5px; border-radius: 3px; }
+.projects-menu > summary span { font-size: .75em; margin-left: .2rem; }
+.projects-options { position: absolute; top: calc(100% + .75rem); left: 0; min-width: 160px; padding: .5rem; background: var(--white); border: 1px solid var(--grey-light); border-radius: 8px; box-shadow: var(--shadow-lg); z-index: 1001; }
+.projects-options a { display: block; padding: .65rem .85rem; border-radius: 5px; white-space: nowrap; }
+.projects-options a:hover, .projects-options a:focus-visible { background: var(--light-blue); color: var(--primary-blue); }
+#products { scroll-margin-top: 120px; }
+@media (max-width: 968px) {
+    .projects-options { position: static; margin-top: .6rem; box-shadow: none; background: var(--grey-light); }
+}
