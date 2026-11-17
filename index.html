@@ -6,6 +6,12 @@
     <title>ANS-SITI | Democratizing the Sustainable Construction</title> 
     <link rel="stylesheet" href="css/styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        .product-gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); gap: 1.5rem; }
+        .product-photo { display: block; border-radius: 10px; overflow: hidden; background: var(--grey-light); box-shadow: var(--shadow); }
+        .product-photo img { display: block; width: 100%; height: 280px; object-fit: contain; }
+        .product-photo:focus-visible { outline: 3px solid var(--primary-blue); outline-offset: 4px; }
+    </style>
 </head>
 <body>
     <!-- Navigation -->
@@ -79,6 +85,43 @@
     </section>
 
   
+    <!-- Products -->
+    <section id="products" class="products-section" aria-labelledby="products-heading">
+        <div class="container">
+            <div class="section-header">
+                <h2 id="products-heading">Our Products</h2>
+                <div class="divider"></div>
+                <p class="section-subtitle">3D-printed concrete benches</p>
+            </div>
+            <div class="product-gallery">
+                <a class="product-photo" href="images/products/977255.jpg" target="_blank" rel="noopener noreferrer">
+                    <img src="images/products/977255.jpg" alt="Arch-design 3D-printed concrete bench, front view" loading="lazy" decoding="async">
+                </a>
+                <a class="product-photo" href="images/products/977256.jpg" target="_blank" rel="noopener noreferrer">
+                    <img src="images/products/977256.jpg" alt="Arch-design 3D-printed concrete bench, side view" loading="lazy" decoding="async">
+                </a>
+                <a class="product-photo" href="images/products/977257.jpg" target="_blank" rel="noopener noreferrer">
+                    <img src="images/products/977257.jpg" alt="Triangular-design 3D-printed concrete bench, front view" loading="lazy" decoding="async">
+                </a>
+                <a class="product-photo" href="images/products/977258.jpg" target="_blank" rel="noopener noreferrer">
+                    <img src="images/products/977258.jpg" alt="Triangular-design 3D-printed concrete bench, alternate front view" loading="lazy" decoding="async">
+                </a>
+                <a class="product-photo" href="images/products/977259.jpg" target="_blank" rel="noopener noreferrer">
+                    <img src="images/products/977259.jpg" alt="Triangular-design 3D-printed concrete bench, side view" loading="lazy" decoding="async">
+                </a>
+                <a class="product-photo" href="images/products/977261.jpg" target="_blank" rel="noopener noreferrer">
+                    <img src="images/products/977261.jpg" alt="Triangular-design 3D-printed concrete bench, angled view" loading="lazy" decoding="async">
+                </a>
+                <a class="product-photo" href="images/products/977262.jpg" target="_blank" rel="noopener noreferrer">
+                    <img src="images/products/977262.jpg" alt="Patterned 3D-printed concrete bench, front view" loading="lazy" decoding="async">
+                </a>
+                <a class="product-photo" href="images/products/977263.jpg" target="_blank" rel="noopener noreferrer">
+                    <img src="images/products/977263.jpg" alt="Patterned 3D-printed concrete bench, installation view" loading="lazy" decoding="async">
+                </a>
+            </div>
+        </div>
+    </section>
+
     <!-- Innovation Highlights -->
     <section class="highlights-section">
         <div class="container">
