@@ -1,0 +1,30 @@
+# ANS-SITI
+
+> Anantashilpa Sustainable Infratech Innovations Pvt. Ltd. (ANS–SITI) develops sustainable construction materials, 3D concrete printing and circular infrastructure solutions at IIT Dharwad, Karnataka, India.
+
+ANS-SITI is the company name. Its official website is https://www.ans-siti.com/.
+The website describes the company's construction technology focus, team, research, product photographs and contact information. The company is based on the IIT Dharwad campus; it is not the IIT Dharwad institute website.
+
+## Company and contact
+
+- Legal name: Anantashilpa Sustainable Infratech Innovations Pvt. Ltd.
+- Common names: ANS-SITI, ANS–SITI, ANS SITI.
+- Email: info@ans-siti.com
+- Telephone: +91 90711 80989
+- Address: #1, 305, Third Floor, Admin Block, IIT Dharwad Campus, Dharwad, Karnataka 580011, India.
+
+## Official pages
+
+- [Home](https://www.ans-siti.com/): Company overview and sustainable construction focus.
+- [About and leadership](https://www.ans-siti.com/pages/about.html): Leadership profiles.
+- [Construction technology focus areas](https://www.ans-siti.com/pages/services.html): Sustainable construction materials, 3D concrete printing, circular economy and digital fabrication.
+- [3D-printed concrete benches](https://www.ans-siti.com/pages/products.html): Arch, triangular and patterned bench designs with product photographs.
+- [Projects](https://www.ans-siti.com/pages/projects.html): Printed concrete bench work and links to the gallery.
+- [Research and innovation](https://www.ans-siti.com/pages/research.html): Printable materials, recycled construction resources and low-carbon infrastructure research.
+- [News](https://www.ans-siti.com/pages/news.html): Company updates and launch information.
+- [Contact](https://www.ans-siti.com/pages/contact.html): Contact details and enquiry form.
+
+## Optional
+
+- [Company LinkedIn](https://in.linkedin.com/company/ans-siti): Public company profile and updates.
+- [XML sitemap](https://www.ans-siti.com/sitemap.xml): Canonical public pages and image locations.

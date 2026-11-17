@@ -1,4 +1,17 @@
+# Public website crawl rules
 User-agent: *
+Allow: /
+
+# Google Search
+User-agent: Googlebot
+Allow: /
+
+# Bing Search
+User-agent: bingbot
+Allow: /
+
+# ChatGPT Search
+User-agent: OAI-SearchBot
 Allow: /
 
 Sitemap: https://www.ans-siti.com/sitemap.xml
